@@ -1,2 +1,1 @@
-# flutter_news
-简单的flutter练习
+简单的flutter项目练习
